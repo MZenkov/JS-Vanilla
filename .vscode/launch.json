@@ -8,7 +8,7 @@
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "c:\\Project\\ToDo JS\\index.html"
+            "file": "C:\\Users\\nadzi\\Desktop\\Новая папка\\JS-Vanilla\\index.html"
         }
     ]
 }
